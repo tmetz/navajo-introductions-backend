@@ -1,0 +1,2 @@
+class ClanGroupsController < ApplicationController
+end
