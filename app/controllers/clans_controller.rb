@@ -1,2 +1,0 @@
-class ClansController < ApplicationController
-end
