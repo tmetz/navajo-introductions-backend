@@ -98,7 +98,7 @@ Clan.create(english_name: "Black Streak Wood People", dine_bizaad_name: "Tsi'naa
 Clan.create(english_name: "Start At The Red Streak People", dine_bizaad_name: "Deeshchii'nii", clan_group_id: 9, count: 0)
 Clan.create(english_name: "Red House", dine_bizaad_name: "Kin łichíí'nii ", clan_group_id: 9, count: 0)
 Clan.create(english_name: "Red Bottom People", dine_bizaad_name: "Tł'ááshchí'í  ", clan_group_id: 9, count: 0)
-Clan.create(english_name: "Many Goats", dine_bizaad_name: "Tł'ízí lání", clan_group_id: 9, count: 0)
+Clan.create(english_name: "Many Goats", dine_bizaad_name: "Tł'ízí łání", clan_group_id: 9, count: 0)
 Clan.create(english_name: "Sleep Rock People", dine_bizaad_name: "Tsé nabahiłnii", clan_group_id: 9, count: 0)
 Clan.create(english_name: "Bear People", dine_bizaad_name: "Shash dine'é - Naashashí", clan_group_id: 9, count: 0)
 Clan.create(english_name: "Gray Cottonwood Extending Out", dine_bizaad_name: "T'iis ch'ébáanii", clan_group_id: 9, count: 0)
