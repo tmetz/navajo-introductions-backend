@@ -4,6 +4,7 @@ class Api::V1::ClansController < ApplicationController
         clan = Clan.find(params[:id])
         clan.count = clan.count + 1
         clan.save
+        render json: clan, status: 200
     end
 
     # def show
