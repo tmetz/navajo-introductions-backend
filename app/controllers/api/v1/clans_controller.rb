@@ -12,7 +12,7 @@ class Api::V1::ClansController < ApplicationController
     # end
 
     def top
-        clans = Clan.first(3)
+        clans = Clan.order(:count).last(3)
         render json: clans, status: 200
     end
 end
