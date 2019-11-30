@@ -10,4 +10,9 @@ class Api::V1::ClansController < ApplicationController
     #     clan = Clan.find(params[:id])
     #     render json: clan, status: 200
     # end
+
+    def top
+        clans = Clan.first(3)
+        render json: clans, status: 200
+    end
 end
