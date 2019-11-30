@@ -6,8 +6,8 @@ class Api::V1::ClansController < ApplicationController
         clan.save
     end
 
-    def show
-        clan = Clan.find(params[:id])
-        render json: clan, status: 200
-    end
+    # def show
+    #     clan = Clan.find(params[:id])
+    #     render json: clan, status: 200
+    # end
 end
