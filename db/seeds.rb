@@ -135,7 +135,8 @@ Clan.create(english_name: "Dutch", dine_bizaad_name: "Kétsiní", clan_group_id:
 
 
 ClanGroup.create(name: 'Group 15', color: '#5f5469') #grey
-Clan.create(english_name: "Black People", dine_bizaad_name: "Naakaii łizhinii", clan_group_id: 15, count: 0)
+Clan.create(english_name: "Black People", dine_bizaad_name: "Naahiłii", clan_group_id: 15, count: 0)
+
 
 ClanGroup.create(name: 'Group 16', color: '#d145a5') #pink
 Clan.create(english_name: "Japanese", dine_bizaad_name: "Bináá'adaałtsó'zí", clan_group_id: 16, count: 0)
